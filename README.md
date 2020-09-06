@@ -9,7 +9,6 @@ For this project the customer request that we
     - Alt & Heading attributes
     - HTML & CSS fall in sequential order
     - Styling & Structure
-
 ---
 
 ## Changes
@@ -34,10 +33,10 @@ For this project the customer request that we
 - `Body:Aside/Section `Deleted the `></img` at the end of the third element
 - `Body:Aside/Section `Reformated the (3) paragraph elements
 - `Body:Footer `Changed the class footer element: `<div>` to `<footer>`
-- Added inline comments throught the code
+- Added inline comments throughout the code
 
 ### style.css
-- Added inline comments throught the code
+- Added inline comments throughout the code
 - Changed `<div>` to `<nav>` in (3) `Header` selectors
 - Moved the `p` selector down to the `Main` section below the `content `selector
 - Moved the `.benefit` selectors into `Aside..` section below `Articles`
@@ -61,4 +60,3 @@ You are required to submit the following for review:
 
 - The URL of the deployed application.
 - The URL of the GitHub repository. (Include a README)
-
