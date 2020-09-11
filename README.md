@@ -44,7 +44,7 @@ For this project the customer request that we
 - Combined all common selectors into one; in both the `Section w/ Articles ` & `Aside w/ Figures` areas
 - Deleted the selectors left over from note above
 - Reorganized areas in the CSS to match the same flow of the HTML
-- Created the following area:
+- Created the following areas:
     - `Main, Header, Figure, Section w/ Articles, Aside w/ Figures & Footer`
 ---
 
