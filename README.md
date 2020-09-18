@@ -14,7 +14,7 @@ For this project the customer request that we
 ## Changes
 
 ### index.html
-- Added the viewport meta tag below the `<html>` at top
+- `Head `Added the viewport meta tag below the 1st `<meta>`
 - `Head `Updated the title to be more specific
 - `Main `Changed the tag: `<body>` to `<main>`
 - `Main:Header `Changed the tag: `<div>` to `<header>` & took out class attribute
