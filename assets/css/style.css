@@ -92,6 +92,7 @@ a {
 /*************************/
 
 /* combined all common selectors */
+/* Could have made the next three items 1 class each & then change the HTML in the index file */
 .search-engine-optimization, 
 .online-reputation-management, 
 .social-media-marketing {
